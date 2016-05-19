@@ -13,14 +13,12 @@ API should receive GET-requests, and response results as JSON.
 Jar-file in out/artifacts/apiparser_jar/
 
 Details:
-  Intellij IDEA project
-  Java8
-  Jars included:	
-    jackson 2.7.3
-    slf4j 1.7.21
-    for Spring RestTemplate:
-      springframework 4.2.5.RELEASE 
-    for tests:
-      junit 4.12
-      mockito 1.10.19
+Intellij IDEA project
+Java8
+Jars included:
+jackson 2.7.3
+slf4j 1.7.21
+springframework 4.2.5.RELEASE (for Spring RestTemplate)
+junit 4.12 (for tests)
+mockito 1.10.19 (for tests)
       
